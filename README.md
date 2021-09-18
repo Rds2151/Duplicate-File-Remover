@@ -10,11 +10,8 @@ It’s hard to imagine the number of duplicate files that exist on our computer.
 
 To Compile
 
-<details>
- <summary>Compile</summary>
- <pre>javac -d . CkSumStore.java</pre>
- <pre>javac -d . CRC_CheckSum.java</pre>
- </details>
-To Run
+> javac -d . CkSumStore.java</pre>
+> javac -d . CRC_CheckSum.java</pre>
 
+To Run
 > javac Remover.java</pre>
