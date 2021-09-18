@@ -11,6 +11,7 @@ It’s hard to imagine the number of duplicate files that exist on our computer.
 To Compile
 
 > javac -d . CkSumStore.java
+
 > javac -d . CRC_CheckSum.java
 
 To Run
